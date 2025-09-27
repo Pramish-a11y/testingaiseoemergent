@@ -53,7 +53,7 @@ const EntryScreen = ({ onAnalysisComplete }) => {
       {/* Hero Section */}
       <div className="text-center mb-12">
         <div className="flex justify-center mb-6">
-          <div className="w-16 h-16 bg-gradient-to-br from-primary-500 to-primary-600 rounded-2xl flex items-center justify-center shadow-lg">
+          <div className="w-16 h-16 bg-gradient-to-br from-blue-500 to-blue-600 rounded-2xl flex items-center justify-center shadow-lg">
             <Search className="w-8 h-8 text-white" />
           </div>
         </div>
