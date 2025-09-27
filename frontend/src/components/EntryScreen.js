@@ -81,8 +81,8 @@ const EntryScreen = ({ onAnalysisComplete }) => {
         </div>
         
         <div className="text-center p-6">
-          <div className="w-12 h-12 bg-warning-100 rounded-lg flex items-center justify-center mx-auto mb-4">
-            <TrendingUp className="w-6 h-6 text-warning-600" />
+          <div className="w-12 h-12 bg-yellow-100 rounded-lg flex items-center justify-center mx-auto mb-4">
+            <TrendingUp className="w-6 h-6 text-yellow-600" />
           </div>
           <h3 className="font-semibold text-gray-900 mb-2">Traffic Potential</h3>
           <p className="text-gray-600 text-sm">
