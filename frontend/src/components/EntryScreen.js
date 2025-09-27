@@ -117,7 +117,7 @@ const EntryScreen = ({ onAnalysisComplete }) => {
                   value={domain}
                   onChange={(e) => setDomain(e.target.value)}
                   placeholder="example.com"
-                  className="w-full pl-10 pr-4 py-3 border border-gray-300 rounded-lg focus:ring-2 focus:ring-primary-500 focus:border-primary-500 transition-colors"
+                  className="w-full pl-10 pr-4 py-3 border border-gray-300 rounded-lg focus:ring-2 focus:ring-blue-500 focus:border-blue-500 transition-colors"
                   disabled={isLoading}
                 />
               </div>
