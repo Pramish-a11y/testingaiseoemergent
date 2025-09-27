@@ -71,8 +71,8 @@ const EntryScreen = ({ onAnalysisComplete }) => {
       {/* Features Grid */}
       <div className="grid md:grid-cols-3 gap-6 mb-12">
         <div className="text-center p-6">
-          <div className="w-12 h-12 bg-success-100 rounded-lg flex items-center justify-center mx-auto mb-4">
-            <Target className="w-6 h-6 text-success-600" />
+          <div className="w-12 h-12 bg-green-100 rounded-lg flex items-center justify-center mx-auto mb-4">
+            <Target className="w-6 h-6 text-green-600" />
           </div>
           <h3 className="font-semibold text-gray-900 mb-2">Smart Gap Detection</h3>
           <p className="text-gray-600 text-sm">
