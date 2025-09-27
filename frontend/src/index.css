@@ -30,14 +30,14 @@
   }
 
   .priority-high {
-    @apply border-l-4 border-l-success-500;
+    @apply border-l-4 border-l-green-500;
   }
   
   .priority-medium {
-    @apply border-l-4 border-l-warning-500;
+    @apply border-l-4 border-l-yellow-500;
   }
   
   .priority-low {
-    @apply border-l-4 border-l-danger-500;
+    @apply border-l-4 border-l-red-500;
   }
 }
